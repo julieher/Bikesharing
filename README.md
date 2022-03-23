@@ -1,7 +1,5 @@
 # Bikesharing
-Tableau Piblic:
-
-https://public.tableau.com/app/profile/julie4612
+Tableau Piblic:  [Link to Dashboard](https://public.tableau.com/app/profile/julie4612)
 
 ## <u>Project Overview</u>
 
