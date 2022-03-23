@@ -1,4 +1,7 @@
 # Bikesharing
+Tableau Piblic:
+
+https://public.tableau.com/app/profile/julie4612
 
 ## <u>Project Overview</u>
 
@@ -7,27 +10,34 @@ The purpose of the project is to analyze Citi Bike data in the city of New York 
 ## <u>Results</u>
 
 ![1](/Resources/Images/1_NYC_dashboard.png)
+
 The NYC Citi Bike Dashboard shows the total number of rides, the average trip duration for the month of August, the most popular starting locations in the city and the usage broken down by gender.
 
 ![2](/Resources/Images/2_Checkout_Time_Users.png)
+
 Length of time that bikes are checked out for all riders.
 
 ![3](/Resources/Images/3_Checkout_Time_Gender.png)
+
 Length of time that bikes are checked out for each gender.
 
 
 ![4](/Resources/Images/4_Trips_by_Weekday.png)
+
 Number of bike trips by weekday shown for each hour of the day.
 
 
 ![5](/Resources/Images/5_Trips_by_Gender.png)
+
 Number of bike trips broken down by gender, and shown for each day of the week by hour. 
 
 
 ![6](/Resources/Images/6_User_Trips_by_Gender.png)
+
 Number of bike trips broken down by gender for each day of the week by each Usertype.
 
 ![7](/Resources/Images/Locations.png)
+
 Additional image
 
 
@@ -45,3 +55,7 @@ Additional image
 Additional chart:
 ![additiona1](/Resources/Images/additional1.png)
 Usage by gender and usertype.
+
+
+Deliverable 3:
+![story](/Resources/Images/story_deliv3.png)
